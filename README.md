@@ -1,2 +1,2 @@
 # C_coding
-Just switching to C prep for my first job :)
+Just switching to C for my first job :)
